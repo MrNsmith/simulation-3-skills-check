@@ -1,0 +1,13 @@
+.form{
+  position: relative;
+  top:150px;
+  left:200px;
+  display: flex;
+align-items: center;
+ border-radius: 8px;
+ flex-direction: column;
+ background-image: linear-gradient(97deg,#ff7a6e,#ffd670) ;
+ width: 35vh;
+ height: 55vh;
+ justify-content:space-around;
+}

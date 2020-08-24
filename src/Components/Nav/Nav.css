@@ -1,0 +1,16 @@
+.nav-bar{
+  position: fixed;
+    
+}
+  .nav-links{
+      display:flex;
+      width: 150px;
+      height: 100vh;
+      flex-direction: column;
+      justify-content: space-evenly;
+      background-image: linear-gradient(97deg,#ff7a6e,#ffd670) ;
+      
+      
+    
+   ;
+  }
